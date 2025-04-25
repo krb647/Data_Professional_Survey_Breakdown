@@ -25,6 +25,10 @@ The following key visualizations are included in the Power BI dashboard:
 2. **Job Satisfaction**: A visual representation of job satisfaction levels among data professionals.
 3. **Tools Used**: A bar chart showing the most popular tools and technologies in the industry.
 
+## 📊 Dashboard Preview
+
+![Dashboard](https://github.com/krb647/Data_Professional_Survey_Breakdown/blob/main/dashboard.png?raw=true)
+
 ## Conclusion
 This project highlights the key findings from the Data Professional Survey and serves as a valuable resource for understanding the current landscape of data professionals. The insights can help aspiring data scientists and organizations make informed decisions.
 
